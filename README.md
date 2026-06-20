@@ -93,11 +93,6 @@ Meow Loop is a lightweight card game themed around the process of game developme
 
 The project was developed by a five-person student team and combines gameplay design, programming, pixel art, music, and writing. It was submitted to Tencent's “Sanjiao Cup” game-development competition and received an award.
 
-## Gameplay
-
-<p align="center">
-  <img src="docs/images/gameplay-loop.png" alt="Card matching and task loop in Meow Loop" width="820">
-</p>
 
 ## Core Mechanics
 
